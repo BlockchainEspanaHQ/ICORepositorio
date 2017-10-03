@@ -14,5 +14,10 @@ La información incluida en los documentos del repositorio deberá ser referenci
 Se debe incluir en cada guía o documento los autores del mismo y en caso de compartir el documento externamente se deberá nombrar a la fuente del documento adecuadamente.
 
 ##### Links:
-* [Grupo de Telegram](https://t.me/joinchat/FQKcBg6jBnquNux1YoD4fQ)
 * [Wiki](../../wiki)
+
+##### Grupos de Telegram:
+
+* [BlockchainEspana.com](https://t.me/blockchainespana)
+* [ICO_Repositorio](https://t.me/joinchat/FQKcBg6jBnquNux1YoD4fQ)
+* [Administraciones Públicas Internacional](https://t.me/joinchat/AAAAAEOEA4nAKhAzSA9qjg)
