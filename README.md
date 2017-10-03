@@ -20,4 +20,4 @@ Se debe incluir en cada guía o documento los autores del mismo y en caso de com
 
 * [BlockchainEspana.com](https://t.me/blockchainespana)
 * [ICO_Repositorio](https://t.me/joinchat/FQKcBg6jBnquNux1YoD4fQ)
-* [Administraciones Públicas Internacional](https://t.me/joinchat/AAAAAEOEA4nAKhAzSA9qjg)
+* [Administraciones Públicas Internacional](https://t.me/joinchat/AGqjGwpP4Ff4ppY6xNpt9w)
