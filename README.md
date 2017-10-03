@@ -6,7 +6,7 @@ Redactar y almacenar documentos sobre Blockchain y sus aplicaciones principales 
 ##### Ámbito de la información en el repositorio:
 * Legal
 * Tecnico
-* Noticias/Informes de administraciones o gobiernos
+* [Noticias/Informes de administraciones o gobiernos](../../wiki/Administraciones-Públicas)
 * Guías de uso/aplicación
 ##### Tipo de información:
 En este repositorio se incluirá información verificada y contrastada referente a la tecnología Blockchain y sus derivados relevantes.
